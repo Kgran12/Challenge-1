@@ -1,6 +1,6 @@
 # Challenge 1 HTML-GIT-CSS
 
-##Table of Contents
+## Table of Contents
 -Description
 -Solutions/Notes
 
