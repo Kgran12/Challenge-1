@@ -1,5 +1,10 @@
 # Challenge 1 HTML-GIT-CSS
 
+## Table of Contents
+- Decsription
+- Solution/Notes
+- Credits
+
 ## Description
 
 For this challenge I went into the original code that was provided for us, and cleaned it up by adding in semantic HTML so that it made more sense for someone viewing the code
@@ -15,3 +20,7 @@ For this challenge I went into the original code that was provided for us, and c
 -I  updated the next div to be an aside as it was a side bar portion of the website. From there I was able to update the css so that anything labled aside would apply the right styles. Again I did this to reduce the code and get rid of any uncessary classes.
 - I updated all the divs under the aside to sections.
 - I updated the div at the bottom to be a footer as it was the footer of the website. I also updated the css style sheet to just apply the right styles to anything called footer. This was to get rid of uneccessary classes and reduce the amount of code.
+
+## Credits
+
+Github_Repo-"https://kgran12.github.io/Challenge-1/"
