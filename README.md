@@ -1,9 +1,5 @@
 # Challenge 1 HTML-GIT-CSS
 
-## Table of Contents
--Description
--Solutions/Notes
-
 ## Description
 
 For this challenge I went into the original code that was provided for us, and cleaned it up by adding in semantic HTML so that it made more sense for someone viewing the code
